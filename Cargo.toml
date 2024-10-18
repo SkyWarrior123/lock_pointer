@@ -1,0 +1,8 @@
+[package]
+name = "lock_pointer"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+enigo = "0.2.1"
+rdev = "0.5.3"
